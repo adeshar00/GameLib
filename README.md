@@ -6,4 +6,5 @@ Below is a link to the sample I've been using to test this library as I've been 
 Use WASD/Space/C buttons to move around.
 Hold down the right mouse button and move the mouse to move your view.
 Other keyboard buttons do random things...
-(Demo)[https://adeshar00.github.io/gamelib/test.html]
+
+[Demo](https://adeshar00.github.io/gamelib/test.html)
