@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#note: running this directly won't do anything, run one of the "nativecompile" or "webcompile" scripts to compile (those scripts refer to this one)
+
+FILES="src/main.c src/loop.c src/utils.c src/window.c src/graphics.c src/input.c src/matrix.c src/sound.c src/vaf.c"
+UNIVERSAL_OPTIONS="-pedantic -Wall -Wextra -O3"
+
+if "$CC" $FILES $UNIVERSAL_OPTIONS $OPTIONS; then
+$TEST
+fi

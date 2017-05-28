@@ -1,0 +1,5 @@
+#!/bin/bash
+CC="gcc"
+OPTIONS="-lm -lSDL2 -lGL -o ignore/test"
+TEST="./ignore/test"
+source compile
