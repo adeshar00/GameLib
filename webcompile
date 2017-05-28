@@ -1,8 +1,0 @@
-#!/bin/bash
-
-OUTPUT="ignore/web/test.html"
-
-CC="emcc"
-OPTIONS="-o $OUTPUT -s NO_EXIT_RUNTIME=1 -s USE_SDL=2 --embed-file data"
-TEST="firefox ignore/web/test.html"
-source compile
