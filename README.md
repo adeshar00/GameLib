@@ -3,8 +3,10 @@ This library is meant to serve as an abstraction layer over OpenGL ES 2.0 and SD
 
 Below is a link to the sample I've been using to test this library as I've been building it (it's not very exciting- it simply allows you to float around and look at a few models rendered with a couple of different test shaders).  I'm testing out a crude stereoscopy mode in it at the moment (cross your eyes, and the image will hopefully appear in 3D: hold the N and M keys to adjust the distance between your virtual eyes and make the 3d-ness easier/harder to see).
 
-Use WASD/Space/C buttons to move around.
-Hold down the right mouse button and move the mouse to move your view.
-Other keyboard buttons do random things...
+**Use WASD/Space/C buttons to move around.**
 
-[Demo](https://adeshar00.github.io/gamelib/test.html)
+**Right Click and Hold on the canvas to rotate your view.**
+
+(Other keyboard buttons do random things...)
+
+# ***[Demo](https://adeshar00.github.io/gamelib/test.html)***
