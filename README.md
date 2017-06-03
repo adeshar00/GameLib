@@ -8,4 +8,4 @@ Below is a link to the sample I've been using to test this library as I've been 
 
 (Other keyboard buttons do random things...)
 
-***[Click here for Demo](https://adeshar00.github.io/gamelib/test.html)***
+***[Click here for Demo](https://adeshar00.github.io/GameLib/test.html)***
